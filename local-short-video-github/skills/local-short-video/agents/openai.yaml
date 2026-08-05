@@ -1,0 +1,4 @@
+interface:
+  display_name: "Local Short Video"
+  short_description: "Create polished local videos with synced voice and captions"
+  default_prompt: "Use $local-short-video to create a polished short video from my local materials with synced voiceover, captions, validation, and reusable project records."
