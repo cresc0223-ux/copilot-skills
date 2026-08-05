@@ -1,7 +1,0 @@
-interface:
-  display_name: "Primer Mall Local Video"
-  short_description: "本地 Primer Mall 商品短视频复用流水线"
-  default_prompt: "Use $primer-mall-local-video to create a local Primer Mall short video with Spanish voiceover, pop captions, logging, and mobile-compatible export."
-
-policy:
-  allow_implicit_invocation: true
